@@ -2,7 +2,7 @@ package exercises;
 import java.util.Scanner;
 
 // Beginning of class definition
-public class Hello_World {
+public class HelloWorld {
 
     // class declaration
     public static void main(String[] args) {
